@@ -40,5 +40,6 @@ src/
 ├── index.js                     // Entry point of the app  
 ├── styles.css                   // Styling for the app  
 
-![Expense Tracker Screenshot](https://github.com/sujitkumarmalik/E-tracker/blob/main/Screenshot%202024-12-06%2012024
-)  
+
+![img](https://https://github.com/sujitkumarmalik/E-tracker/blob/main/Screenshot%202024-12-06%2012024)
+

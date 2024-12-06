@@ -41,5 +41,5 @@ src/
 ├── styles.css                   // Styling for the app  
 
 
-![img](https://https://github.com/sujitkumarmalik/E-tracker/blob/main/Screenshot%202024-12-06%2012024)
+![img](https://github.com/sujitkumarmalik/E-tracker/blob/main/Screenshot%202024-12-06%20120247.png)
 

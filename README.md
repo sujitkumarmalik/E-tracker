@@ -23,6 +23,9 @@ A simple **Expense Tracker** application built with **React.js**, **Context API*
 
 ---
 
+![img](https://github.com/sujitkumarmalik/E-tracker/blob/main/Screenshot%202024-12-06%20120247.png)
+
+
 ## 📂 Project Structure  
 
 ```plaintext  
@@ -41,5 +44,4 @@ src/
 ├── styles.css                   // Styling for the app  
 
 
-![img](https://github.com/sujitkumarmalik/E-tracker/blob/main/Screenshot%202024-12-06%20120247.png)
 
